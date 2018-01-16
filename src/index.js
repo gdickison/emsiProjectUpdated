@@ -7,6 +7,8 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 // import { Router } from 'react-router';
 import registerServiceWorker from './registerServiceWorker';
 
+//This is a change simply to see if I an get this to work again
+
 
 const Root = () => {
     return (
